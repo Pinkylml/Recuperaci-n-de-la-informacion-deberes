@@ -2,3 +2,4 @@ kaggle
 tensorflow
 gensim
 transformers
+pandas

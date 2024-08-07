@@ -1,6 +1,6 @@
 .venv/
 .venv2/
-Homeworks/week12/data/
+env/
 envir/
 proj01/Back_of_words_version2.1.csv
 proj01/Back_of_words_version2.csv
